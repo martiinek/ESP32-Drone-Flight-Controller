@@ -53,6 +53,7 @@ If the drone exceeds pitch or roll angles of ±45 degrees, a flight error is tri
 - Implement altitude hold using barometric pressure sensor.
 - Fine-tune PID parameters for optimal performance.
 - Enhance error handling and implement failsafe mechanisms.
+- Using Radiomaster PWM receiver and transmitter.
 
 ## Disclaimer
 
