@@ -4,6 +4,8 @@
 
 This Arduino flight controller is designed for controlling a drone using an ESP32 microcontroller, various sensors, and PID control loops. It utilizes an NRF24L01 radio module for communication with a remote control, and Bluetooth for parameter tuning. The flight controller reads data from sensors, calculates PID outputs, and controls four motors accordingly.
 
+If you're interested in this project, visit my [Instagram](https://www.instagram.com/pan.string/) where I've made a few videos about the making process.
+
 ## Hardware Requirements
 
 - ESP32 microcontroller
@@ -55,8 +57,5 @@ If the drone exceeds pitch or roll angles of ±45 degrees, a flight error is tri
 ## Disclaimer
 
 This code is a basic example, and adjustments may be needed for specific drone configurations. Use it at your own risk.
-
-
-If you're interested in this project, visit my [Instagram](https://www.instagram.com/pan.string/) where I've made a few videos about the making process.
 
 ![Project Image](image.jpg)
