@@ -12,6 +12,8 @@ This Arduino flight controller is designed for controlling a drone using an ESP3
 - HMC5883 magnetometer
 - 4x BLDC motors
 - 4x 30A ESC
+- DJI F450 frame
+- Battery
 
 ## Libraries Used
 
